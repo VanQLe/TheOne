@@ -1,0 +1,9 @@
+C:\Users\Van\Desktop\PrideTek Projects\TheOne\source\PrideTek.TheOne.Infrastructure\bin\Debug\PrideTek.TheOne.Infrastructure.dll
+C:\Users\Van\Desktop\PrideTek Projects\TheOne\source\PrideTek.TheOne.Infrastructure\bin\Debug\PrideTek.TheOne.Infrastructure.pdb
+C:\Users\Van\Desktop\PrideTek Projects\TheOne\source\PrideTek.TheOne.Infrastructure\bin\Debug\PrideTek.Shell.Core.dll
+C:\Users\Van\Desktop\PrideTek Projects\TheOne\source\PrideTek.TheOne.Infrastructure\bin\Debug\PrideTek.Shell.WPF.dll
+C:\Users\Van\Desktop\PrideTek Projects\TheOne\source\PrideTek.TheOne.Infrastructure\bin\Debug\PrideTek.Shell.Core.pdb
+C:\Users\Van\Desktop\PrideTek Projects\TheOne\source\PrideTek.TheOne.Infrastructure\bin\Debug\PrideTek.Shell.WPF.pdb
+C:\Users\Van\Desktop\PrideTek Projects\TheOne\source\PrideTek.TheOne.Infrastructure\obj\Debug\PrideTek.TheOne.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\Van\Desktop\PrideTek Projects\TheOne\source\PrideTek.TheOne.Infrastructure\obj\Debug\PrideTek.TheOne.Infrastructure.dll
+C:\Users\Van\Desktop\PrideTek Projects\TheOne\source\PrideTek.TheOne.Infrastructure\obj\Debug\PrideTek.TheOne.Infrastructure.pdb

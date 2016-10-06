@@ -1,0 +1,9 @@
+C:\Users\Van\Desktop\PrideTek Projects\TheOne\source\PrideTek.Shell.Core\bin\Debug\PrideTek.Shell.Core.dll.config
+C:\Users\Van\Desktop\PrideTek Projects\TheOne\source\PrideTek.Shell.Core\bin\Debug\PrideTek.Shell.Core.dll
+C:\Users\Van\Desktop\PrideTek Projects\TheOne\source\PrideTek.Shell.Core\bin\Debug\PrideTek.Shell.Core.pdb
+C:\Users\Van\Desktop\PrideTek Projects\TheOne\source\PrideTek.Shell.Core\bin\Debug\EntityFramework.dll
+C:\Users\Van\Desktop\PrideTek Projects\TheOne\source\PrideTek.Shell.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Van\Desktop\PrideTek Projects\TheOne\source\PrideTek.Shell.Core\bin\Debug\EntityFramework.xml
+C:\Users\Van\Desktop\PrideTek Projects\TheOne\source\PrideTek.Shell.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Van\Desktop\PrideTek Projects\TheOne\source\PrideTek.Shell.Core\obj\Debug\PrideTek.Shell.Core.dll
+C:\Users\Van\Desktop\PrideTek Projects\TheOne\source\PrideTek.Shell.Core\obj\Debug\PrideTek.Shell.Core.pdb

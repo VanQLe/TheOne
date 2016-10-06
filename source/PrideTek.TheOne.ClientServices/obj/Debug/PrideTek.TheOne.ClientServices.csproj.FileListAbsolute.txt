@@ -1,0 +1,13 @@
+C:\Users\Van\Desktop\PrideTek Projects\TheOne\source\PrideTek.TheOne.ClientServices\bin\Debug\PrideTek.TheOne.ClientServices.dll
+C:\Users\Van\Desktop\PrideTek Projects\TheOne\source\PrideTek.TheOne.ClientServices\bin\Debug\PrideTek.TheOne.ClientServices.pdb
+C:\Users\Van\Desktop\PrideTek Projects\TheOne\source\PrideTek.TheOne.ClientServices\bin\Debug\EntityFramework.dll
+C:\Users\Van\Desktop\PrideTek Projects\TheOne\source\PrideTek.TheOne.ClientServices\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Van\Desktop\PrideTek Projects\TheOne\source\PrideTek.TheOne.ClientServices\bin\Debug\PrideTek.TheOne.Models.dll
+C:\Users\Van\Desktop\PrideTek Projects\TheOne\source\PrideTek.TheOne.ClientServices\bin\Debug\PrideTek.Shell.Core.dll
+C:\Users\Van\Desktop\PrideTek Projects\TheOne\source\PrideTek.TheOne.ClientServices\bin\Debug\PrideTek.TheOne.Models.pdb
+C:\Users\Van\Desktop\PrideTek Projects\TheOne\source\PrideTek.TheOne.ClientServices\bin\Debug\EntityFramework.xml
+C:\Users\Van\Desktop\PrideTek Projects\TheOne\source\PrideTek.TheOne.ClientServices\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Van\Desktop\PrideTek Projects\TheOne\source\PrideTek.TheOne.ClientServices\bin\Debug\PrideTek.Shell.Core.pdb
+C:\Users\Van\Desktop\PrideTek Projects\TheOne\source\PrideTek.TheOne.ClientServices\obj\Debug\PrideTek.TheOne.ClientServices.csprojResolveAssemblyReference.cache
+C:\Users\Van\Desktop\PrideTek Projects\TheOne\source\PrideTek.TheOne.ClientServices\obj\Debug\PrideTek.TheOne.ClientServices.dll
+C:\Users\Van\Desktop\PrideTek Projects\TheOne\source\PrideTek.TheOne.ClientServices\obj\Debug\PrideTek.TheOne.ClientServices.pdb
